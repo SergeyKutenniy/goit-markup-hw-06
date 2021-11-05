@@ -837,3 +837,17 @@ img {
 .form {
   display: flex;
 }
+
+.modal-head {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+}
